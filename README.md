@@ -1,7 +1,7 @@
 # Jewels-JetPack
 This is a WIP mod for the EFT 12.12 Bad Santa edition.
 
-Currently, the mod adds several new items, 2 new traders, a couple dozen quests, and many tweaks to the overall gameplay of EFT.
+Currently, the mod adds several new items, 2 new traders, a couple dozen quests, and many tweaks to the overall gameplay of EFT. It can be considered something of a "Lite" overhaul.
 
 # Install
 To install, simply copy the contents of the "server" folder into your JET server installation. Overwrite when asked. This mod overrides base server files so I suggest backing them up before installing in case you want to uninstall the mod in the future.
