@@ -1,0 +1,355 @@
+{
+	"_id": "SuperArmorRig",
+	"_name": "item_equipment_rig_mmac",
+	"_parent": "5448e5284bdc2dcb718b4567",
+	"_props": {
+		"AllowSpawnOnLocations": [
+		],
+		"AnimationVariantsNumber": 0,
+		"ArmorMaterial": "UHMWPE",
+		"BackgroundColor": "violet",
+		"BlocksArmorVest": true,
+		"BluntThroughput": 0.22,
+		"CanPutIntoDuringTheRaid": true,
+		"CanRequireOnRagfair": false,
+		"CanSellOnRagfair": false,
+		"CantRemoveFromSlotsDuringRaid": [
+		],
+		"ChangePriceCoef": 1,
+		"ConflictingItems": [
+		],
+		"CreditsPrice": 60000,
+		"Description": "SuperArmorRig",
+		"DiscardingBlock": false,
+		"Durability": 40,
+		"ExamineExperience": 10,
+		"ExamineTime": 1,
+		"ExaminedByDefault": true,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"FixedPrice": false,
+		"Grids": [
+			{
+				"_id": "61bc85697113f767765c7fe9",
+				"_name": "1",
+				"_parent": "61bc85697113f767765c7fe7",
+				"_props": {
+					"cellsH": 1,
+					"cellsV": 2,
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "61bc85697113f767765c7fea",
+				"_name": "2",
+				"_parent": "61bc85697113f767765c7fe7",
+				"_props": {
+					"cellsH": 1,
+					"cellsV": 2,
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "61bc85697113f767765c7feb",
+				"_name": "3",
+				"_parent": "61bc85697113f767765c7fe7",
+				"_props": {
+					"cellsH": 1,
+					"cellsV": 2,
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "61bc85697113f767765c7fec",
+				"_name": "4",
+				"_parent": "61bc85697113f767765c7fe7",
+				"_props": {
+					"cellsH": 1,
+					"cellsV": 2,
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "61bc85697113f767765c7fed",
+				"_name": "5",
+				"_parent": "61bc85697113f767765c7fe7",
+				"_props": {
+					"cellsH": 1,
+					"cellsV": 2,
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "61bc85697113f767765c7fee",
+				"_name": "6",
+				"_parent": "61bc85697113f767765c7fe7",
+				"_props": {
+					"cellsH": 2,
+					"cellsV": 2,
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "61bc85697113f767765c7fef",
+				"_name": "7",
+				"_parent": "61bc85697113f767765c7fe7",
+				"_props": {
+					"cellsH": 1,
+					"cellsV": 3,
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "61bc85697113f767765c7ff0",
+				"_name": "8",
+				"_parent": "61bc85697113f767765c7fe7",
+				"_props": {
+					"cellsH": 1,
+					"cellsV": 1,
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			}
+		],
+		"Height": 3,
+		"HideEntrails": true,
+		"IsAlwaysAvailableForInsurance": false,
+		"IsLockedafterEquip": false,
+		"IsUnbuyable": false,
+		"IsUndiscardable": false,
+		"IsUngivable": false,
+		"IsUnsaleable": false,
+		"ItemSound": "gear_generic",
+		"LootExperience": 20,
+		"MaxDurability": 40,
+		"MergesWithChildren": false,
+		"Name": "tactec",
+		"NotShownInSlot": false,
+		"Prefab": {
+			"path": "assets/content/items/equipment/rig_custom_osprey_defence/item_equipment_rig_custom_osprey_defence.bundle",
+			"rcid": ""
+		},
+		"QuestItem": false,
+		"RagFairCommissionModifier": 1,
+		"Rarity": "Superrare",
+		"RepairCost": 660,
+		"RepairSpeed": 0,
+		"RigLayoutName": "mmac",
+		"SearchSound": "looting_body_extended",
+		"SendToClient": false,
+		"ShortName": "SuperArmorRig",
+		"Slots": [
+			{
+				"_name": "mod_launcher",
+				"_id": "NeuraLink",
+				"_parent": "5e4abb5086f77406975c9342",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"NeuralinkBeetle",
+								"NeuralinkCheetah",
+								"NeuralinkEagle",
+								"NeuralinkEagle",
+								"NeuralinkFalcon",
+								"NeuralinkHunter",
+								"NeuralinkOcelot",
+								"NeuralinkPredator",
+								"NeuralinkRhino",
+								"NeuralinkTank"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+				"_name": "mod_launcher_001",
+				"_id": "NeuraLink",
+				"_parent": "5e4abb5086f77406975c9342",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"NeuralinkBeetle",
+								"NeuralinkCheetah",
+								"NeuralinkEagle",
+								"NeuralinkEagle",
+								"NeuralinkFalcon",
+								"NeuralinkHunter",
+								"NeuralinkOcelot",
+								"NeuralinkPredator",
+								"NeuralinkRhino",
+								"NeuralinkTank"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+				"_name": "mod_equipment",
+				"_id": "Lower_Armor",
+				"_parent": "5e4abb5086f77406975c9342",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"LegPlates"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			}
+		],
+		"SpawnChance": 6,
+		"StackMaxSize": 1,
+		"StackObjectsCount": 1,
+		"Unlootable": false,
+		"UnlootableFromSide": [
+		],
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"Weight": 7.2,
+		"Width": 3,
+		"armorClass": 6,
+		"armorZone": [
+			"Chest",
+			"Stomach",
+			"LeftArm",
+			"RightArm"
+		],
+		"mousePenalty": -5,
+		"speedPenaltyPercent": -7,
+		"weaponErgonomicPenalty": -7
+	},
+	"_proto": "544a5caa4bdc2d1a388b4568",
+	"_type": "Item"
+}

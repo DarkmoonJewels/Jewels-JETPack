@@ -1,0 +1,165 @@
+{
+	"_id": "SuperHelmet",
+	"_name": "SuperHelmet",
+	"_parent": "5a341c4086f77401f2541505",
+	"_props": {
+		"AllowSpawnOnLocations": [
+		],
+		"AnimationVariantsNumber": 0,
+		"ArmorMaterial": "Combined",
+		"BackgroundColor": "violet",
+		"BlindnessProtection": 0,
+		"BlocksEarpiece": false,
+		"BlocksEyewear": false,
+		"BlocksFaceCover": false,
+		"BlocksHeadwear": false,
+		"BluntThroughput": 0.144,
+		"CanPutIntoDuringTheRaid": true,
+		"CanRequireOnRagfair": false,
+		"CanSellOnRagfair": false,
+		"CantRemoveFromSlotsDuringRaid": [
+		],
+		"ChangePriceCoef": 1,
+		"ConflictingItems": [
+		],
+		"CreditsPrice": 145976,
+		"DeafStrength": "None",
+		"Description": "SuperHelmet",
+		"DiscardingBlock": false,
+		"Durability": 50,
+		"ExamineExperience": 4,
+		"ExamineTime": 1,
+		"ExaminedByDefault": true,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"FaceShieldComponent": false,
+		"FaceShieldMask": "NoMask",
+		"FixedPrice": false,
+		"Grids": [
+		],
+		"HasHinge": false,
+		"Height": 2,
+		"HideEntrails": false,
+		"Indestructibility": 0.9,
+		"IsAlwaysAvailableForInsurance": false,
+		"IsLockedafterEquip": false,
+		"IsUnbuyable": false,
+		"IsUndiscardable": false,
+		"IsUngivable": false,
+		"IsUnsaleable": false,
+		"ItemSound": "gear_helmet",
+		"LootExperience": 20,
+		"MaterialType": "Helmet",
+		"MaxDurability": 60,
+		"MergesWithChildren": true,
+		"Name": "SuperHelmet",
+		"NotShownInSlot": false,
+		"Prefab": {
+			"path": "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman.bundle",
+			"rcid": ""
+		},
+		"QuestItem": false,
+		"RagFairCommissionModifier": 1,
+		"Rarity": "Not_exist",
+		"RepairCost": 3500,
+		"RepairSpeed": 10,
+		"RicochetParams": {
+			"x": 0.9,
+			"y": 0.5,
+			"z": 75
+		},
+		"SendToClient": false,
+		"ShortName": "SuperHelmet",
+		"Slots": [
+			{
+				"_id": "5f60b34a41e30a4ab12a6949",
+				"_mergeSlotWithChildren": false,
+				"_name": "mod_equipment_000",
+				"_parent": "5f60b34a41e30a4ab12a6947",
+				"_props": {
+					"filters": [
+						{
+							"Filter": [
+								"5f60c076f2bcbb675b00dac2",
+								"5a16badafcdbcb001865f72d"
+							],
+							"Shift": 0
+						}
+					]
+				},
+				"_proto": "55d30c4c4bdc2db4468b457e",
+				"_required": false
+			},
+			{
+				"_id": "5f60b34a41e30a4ab12a694a",
+				"_mergeSlotWithChildren": false,
+				"_name": "mod_nvg",
+				"_parent": "5f60b34a41e30a4ab12a6947",
+				"_props": {
+					"filters": [
+						{
+							"Filter": [
+								"5f60bf4558eff926626a60f2",
+								"5c0558060db834001b735271",
+								"5a16b8a9fcdbcb00165aa6ca",
+								"SuperMask"
+							],
+							"Shift": 0
+						}
+					]
+				},
+				"_proto": "55d30c4c4bdc2db4468b457e",
+				"_required": false
+			},
+			{
+				"_id": "5f60b34a41e30a4ab12a694b",
+				"_mergeSlotWithChildren": false,
+				"_name": "mod_mount",
+				"_parent": "5f60b34a41e30a4ab12a6947",
+				"_props": {
+					"filters": [
+						{
+							"Filter": [
+								"5a398b75c4a282000a51a266",
+								"5a398ab9c4a282000c5a9842",
+								"5b800ed086f7747baf6e2f9e"
+							],
+							"Shift": 0
+						}
+					]
+				},
+				"_proto": "55d30c4c4bdc2db4468b457e",
+				"_required": false
+			}
+		],
+		"SpawnChance": 0,
+		"StackMaxSize": 1,
+		"StackObjectsCount": 1,
+		"Unlootable": false,
+		"UnlootableFromSide": [
+		],
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"Weight": 1.12,
+		"Width": 2,
+		"armorClass": "6",
+		"armorZone": [
+			"Head"
+		],
+		"headSegments": [
+			"Top",
+			"Nape"
+		],
+		"mousePenalty": -8,
+		"speedPenaltyPercent": -2,
+		"weaponErgonomicPenalty": -1
+	},
+	"_proto": "5645bc214bdc2d363b8b4571",
+	"_type": "Item"
+}

@@ -1,0 +1,124 @@
+{
+	"_id": "SuperMask",
+	"_name": "SuperMask",
+	"_parent": "57bef4c42459772e8d35a53b",
+	"_props": {
+		"AllowSpawnOnLocations": [
+		],
+		"AnimationVariantsNumber": 0,
+		"ArmorMaterial": "Aramid",
+		"BackgroundColor": "violet",
+		"BlindnessProtection": 0.2,
+		"BlocksEarpiece": false,
+		"BlocksEyewear": false,
+		"BlocksFaceCover": false,
+		"BlocksHeadwear": false,
+		"BluntThroughput": 0.1,
+		"CanPutIntoDuringTheRaid": true,
+		"CanRequireOnRagfair": true,
+		"CanSellOnRagfair": true,
+		"CantRemoveFromSlotsDuringRaid": [
+		],
+		"ChangePriceCoef": 1,
+		"ConflictingItems": [
+		],
+		"CreditsPrice": 61000,
+		"DeafStrength": "None",
+		"Description": "SuperMask",
+		"DiscardingBlock": false,
+		"Durability": 45,
+		"ExamineExperience": 4,
+		"ExamineTime": 1,
+		"ExaminedByDefault": true,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"FaceShieldComponent": false,
+		"FaceShieldMask": "NoMask",
+		"FixedPrice": false,
+		"Grids": [
+		],
+		"HasHinge": false,
+		"Height": 2,
+		"HideEntrails": false,
+		"Indestructibility": 0.9,
+		"IsAlwaysAvailableForInsurance": false,
+		"IsLockedafterEquip": false,
+		"IsUnbuyable": false,
+		"IsUndiscardable": false,
+		"IsUngivable": false,
+		"IsUnsaleable": false,
+		"ItemSound": "gear_helmet",
+		"LootExperience": 20,
+		"MaterialType": "Helmet",
+		"MaxDurability": 45,
+		"MergesWithChildren": true,
+		"Name": "SuperMask",
+		"NotShownInSlot": false,
+		"Prefab": {
+			"path": "assets/content/items/equipment/helmet_tk_heavy_trooper/item_equipment_helmet_tk_heavy_trooper.bundle",
+			"rcid": ""
+		},
+		"QuestItem": false,
+		"RagFairCommissionModifier": 1,
+		"Rarity": "Not_exist",
+		"RepairCost": 1311,
+		"RepairSpeed": 10,
+		"RicochetParams": {
+			"x": 0.9,
+			"y": 0.4,
+			"z": 50
+		},
+		"SendToClient": false,
+		"ShortName": "SuperMask",
+		"Slots": [
+			{
+				"_id": "5ea061dd3df0eb08296a0b4a",
+				"_mergeSlotWithChildren": false,
+				"_name": "mod_nvg",
+				"_parent": "5ea058e01dbce517f324b3e2",
+				"_props": {
+					"filters": [
+						{
+							"Filter": [
+								"5ea18c84ecf1982c7712d9a2"
+							],
+							"Shift": 0
+						}
+					]
+				},
+				"_proto": "55d30c4c4bdc2db4468b457e",
+				"_required": false
+			}
+		],
+		"SpawnChance": 0,
+		"StackMaxSize": 1,
+		"StackObjectsCount": 1,
+		"Unlootable": false,
+		"UnlootableFromSide": [
+		],
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"Weight": 0.6,
+		"Width": 2,
+		"armorClass": "4",
+		"armorZone": [
+			"Head"
+		],
+		"headSegments": [
+			"Top",
+			"Eyes",
+			"Jaws"
+		],
+		"mousePenalty": -2,
+		"speedPenaltyPercent": 0,
+		"weaponErgonomicPenalty": -2
+	},
+	"_proto": "5645bc214bdc2d363b8b4571",
+	"_type": "Item"
+}

@@ -1,0 +1,549 @@
+[
+	{
+		"_id": "566abbc34bdc2d92178b4576",
+		"_name": "Standard stash 10x28",
+		"_parent": "566abbb64bdc2d144c8b457d",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "blue",
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": true,
+			"CanSellOnRagfair": true,
+			"CantRemoveFromSlotsDuringRaid": [
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 0,
+			"Description": "Standard stash 10x28\n",
+			"DiscardingBlock": false,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "566abbf74bdc2dd44d8b4579",
+					"_name": "hideout",
+					"_parent": "566abbc34bdc2d92178b4576",
+					"_props": {
+						"cellsH": 10,
+						"cellsV": 32,
+						"filters": [
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 1,
+			"HideEntrails": false,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "generic",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Standard stash 10x28",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SendToClient": false,
+			"ShortName": "Standard stash 10x28",
+			"Slots": [
+			],
+			"SpawnChance": 0,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1,
+			"Width": 1
+		},
+		"_type": "Item"
+	},
+	{
+		"_id": "5811ce572459770cba1a34ea",
+		"_name": "Left Behind stash 10x38",
+		"_parent": "566abbb64bdc2d144c8b457d",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "blue",
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": true,
+			"CanSellOnRagfair": true,
+			"CantRemoveFromSlotsDuringRaid": [
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 0,
+			"Description": "Left Behind stash 10x38",
+			"DiscardingBlock": false,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5811cf5e2459770e83232ec2",
+					"_name": "hideout",
+					"_parent": "5811ce572459770cba1a34ea",
+					"_props": {
+						"cellsH": 10,
+						"cellsV": 48,
+						"filters": [
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 1,
+			"HideEntrails": false,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "generic",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Left Behind stash 10x38",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SendToClient": false,
+			"ShortName": "Left Behind stash 10x38",
+			"Slots": [
+			],
+			"SpawnChance": 0,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1,
+			"Width": 1
+		},
+		"_proto": "566abbc34bdc2d92178b4576",
+		"_type": "Item"
+	},
+	{
+		"_id": "5811ce662459770f6f490f32",
+		"_name": "Prepare for escape stash 10x48",
+		"_parent": "566abbb64bdc2d144c8b457d",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "blue",
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": true,
+			"CanSellOnRagfair": true,
+			"CantRemoveFromSlotsDuringRaid": [
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 0,
+			"Description": "Prepare for escape stash 10x48\n",
+			"DiscardingBlock": false,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5811cf742459770cba1a34eb",
+					"_name": "hideout",
+					"_parent": "5811ce662459770f6f490f32",
+					"_props": {
+						"cellsH": 10,
+						"cellsV": 60,
+						"filters": [
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 1,
+			"HideEntrails": false,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "generic",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Prepare for escape stash 10x48",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SendToClient": false,
+			"ShortName": "Prepare for escape stash 10x48",
+			"Slots": [
+			],
+			"SpawnChance": 0,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1,
+			"Width": 1
+		},
+		"_proto": "5811ce572459770cba1a34ea",
+		"_type": "Item"
+	},
+	{
+		"_id": "5811ce772459770e9e5f9532",
+		"_name": "Edge of darkness stash 10x68",
+		"_parent": "566abbb64bdc2d144c8b457d",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "blue",
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": true,
+			"CanSellOnRagfair": true,
+			"CantRemoveFromSlotsDuringRaid": [
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 0,
+			"Description": "Edge of darkness stash 10x68\n",
+			"DiscardingBlock": false,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5811cf932459770e83232ec3",
+					"_name": "hideout",
+					"_parent": "5811ce772459770e9e5f9532",
+					"_props": {
+						"cellsH": 10,
+						"cellsV": 80,
+						"filters": [
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 1,
+			"HideEntrails": false,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "generic",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Edge of darkness stash 10x68",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SendToClient": false,
+			"ShortName": "Edge of darkness stash 10x68",
+			"Slots": [
+			],
+			"SpawnChance": 0,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1,
+			"Width": 1
+		},
+		"_proto": "5811ce662459770f6f490f32",
+		"_type": "Item"
+	},
+	{
+		"_id": "5963866286f7747bf429b572",
+		"_name": "stash 8x6",
+		"_parent": "566abbb64bdc2d144c8b457d",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "blue",
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": true,
+			"CanSellOnRagfair": true,
+			"CantRemoveFromSlotsDuringRaid": [
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 0,
+			"Description": "QuestRaidStash",
+			"DiscardingBlock": false,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5963866286f7747bf429b573",
+					"_name": "hideout",
+					"_parent": "5963866286f7747bf429b572",
+					"_props": {
+						"cellsH": 8,
+						"cellsV": 6,
+						"filters": [
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 1,
+			"HideEntrails": false,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "generic",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "QuestRaidStash",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SendToClient": false,
+			"ShortName": "QuestRaidStash",
+			"Slots": [
+			],
+			"SpawnChance": 0,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1,
+			"Width": 1
+		},
+		"_proto": "5811ce662459770f6f490f32",
+		"_type": "Item"
+	},
+	{
+		"_id": "5963866b86f7747bfa1c4462",
+		"_name": "stash 8x40",
+		"_parent": "566abbb64bdc2d144c8b457d",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "blue",
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": true,
+			"CanSellOnRagfair": true,
+			"CantRemoveFromSlotsDuringRaid": [
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 0,
+			"Description": "QuestOfflineStash",
+			"DiscardingBlock": false,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5963866b86f7747bfa1c4463",
+					"_name": "hideout",
+					"_parent": "5963866b86f7747bfa1c4462",
+					"_props": {
+						"cellsH": 8,
+						"cellsV": 42,
+						"filters": [
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 1,
+			"HideEntrails": false,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "generic",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "QuestOfflineStash",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SendToClient": false,
+			"ShortName": "QuestOfflineStash",
+			"Slots": [
+			],
+			"SpawnChance": 0,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1,
+			"Width": 1
+		},
+		"_proto": "5811ce662459770f6f490f32",
+		"_type": "Item"
+	},
+	{
+		"_id": "6050cac987d3f925bf016837",
+		"_name": "SortingTable",
+		"_parent": "566abbb64bdc2d144c8b457d",
+		"_props": {
+		},
+		"_type": "Node"
+	}
+]

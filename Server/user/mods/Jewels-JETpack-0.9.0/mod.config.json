@@ -1,0 +1,47 @@
+{
+	"name": "JETpack",
+	"author": "Jewels",
+	"version": "0.9.0",
+	"license": "MIT",
+	"checkUpdateUrl": "",
+	"autoUpdate": false,
+	"src": {
+		"src/modloader.js": "CacheModLoad"
+	},
+	"folders": [
+		"files/items",
+		"files/traders/ragfair",
+		"files/locales/en",
+		"files/templates"
+	],
+	"filenames": [
+		"SmallWater",
+		"AramidWrap",
+		"LegPlates",
+		"LegWrap",
+		"PartsCase",
+		"SuperRig",
+		"SuperSlick",
+		"SuperSlickOlive",
+		"SuperSlickTan",
+		"NeuralinkTest",
+		"NeuralinkFalcon",
+		"NeuralinkOcelot",
+		"NeuralinkBeetle",
+		"NeuralinkRhino",
+		"NeuralinkCheetah",
+		"NeuralinkEagle",
+		"NeuralinkTank",
+		"NeuralinkHunter",
+		"NeuralinkPredator",
+		"SuperArmorRig",
+		"SuperHelmet",
+		"SuperMask",
+		"QuestMessage",
+		"QuestFlashDrive",
+		"Super556",
+		"Super556Box"
+	],
+	"required": [
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "NeuralinkCheetah",
+	"_tpl": "NeuralinkCheetah",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

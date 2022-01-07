@@ -1,0 +1,10 @@
+{
+	"_id": "LegPlates",
+	"_tpl": "LegPlates",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

@@ -1,0 +1,1036 @@
+[
+	{
+		"_id": "544a11ac4bdc2d470e8b456a",
+		"_name": "Контейнер Альфа",
+		"_parent": "5448bf274bdc2dfc2f8b456a",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "violet",
+			"BlocksArmorVest": false,
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"CantRemoveFromSlotsDuringRaid": [
+				"SecuredContainer"
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 360000,
+			"Description": "",
+			"DiscardingBlock": true,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "55d718044bdc2d87028b456d",
+					"_name": "main",
+					"_parent": "544a11ac4bdc2d470e8b456a",
+					"_props": {
+						"cellsH": 2,
+						"cellsV": 2,
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5a341c4086f77401f2541505",
+									"55818aeb4bdc2ddc698b456a",
+									"5b3b6dc75acfc47a8773fb1e",
+									"5a1ead28fcdbcb001912fa9f",
+									"587e08ee245977446b4410cf",
+									"5c0695860db834001b735461",
+									"5a16b93dfcdbcbcae6687261",
+									"5a16b8a9fcdbcb00165aa6ca",
+									"5c11046cd174af02a012e42b",
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"5448eb774bdc2d0a728b4567",
+									"543be5f84bdc2dd4348b456a",
+									"5448fe124bdc2da5018b4567",
+									"60b0f6c058e0b0481a09ad11",
+									"619cbf9e0a7c3a1a2731940a",
+									"619cbf7d23893217ec30b689",
+									"59fafd4b86f7745ca07e1232",
+									"5d235bb686f77443f4331278",
+									"5c093e3486f77430cb02e593",
+									"590c60fc86f77412b13fddcf",
+									"5783c43d2459774bbe137486",
+									"543be6674bdc2df1348b4569",
+									"5448ecbe4bdc2d60728b4568",
+									"543be5e94bdc2df1348b4568",
+									"5447e1d04bdc2dff2f8b4567",
+									"567849dd4bdc2d150f8b456e",
+									"543be5664bdc2dd4348b4569",
+									"5447e0e74bdc2d3c308b4567",
+									"5661632d4bdc2d903d8b456b",
+									"543be5cb4bdc2deb348b4568",
+									"543be6564bdc2df4348b4568"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "SecBagSlot2",
+					"_name": "main2",
+					"_parent": "5732ee6a24597719ae0c0281",
+					"_props": {
+						"cellsH": 1,
+						"cellsV": 2,
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5a341c4086f77401f2541505",
+									"55818aeb4bdc2ddc698b456a",
+									"5b3b6dc75acfc47a8773fb1e",
+									"5a1ead28fcdbcb001912fa9f",
+									"587e08ee245977446b4410cf",
+									"5c0695860db834001b735461",
+									"5a16b93dfcdbcbcae6687261",
+									"5a16b8a9fcdbcb00165aa6ca",
+									"5c11046cd174af02a012e42b",
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"57864c8c245977548867e7f1",
+									"543be5664bdc2dd4348b4569"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 2,
+			"HideEntrails": true,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "container_case",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Защищенный контейнер Альфа",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "assets/content/items/meds/first_aid_box/item_meds_first_aid_box.bundle",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SearchSound": "cashregister_looting",
+			"SendToClient": false,
+			"ShortName": "A-secured",
+			"Slots": [
+			],
+			"SpawnChance": 50,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 0.8,
+			"Width": 2,
+			"containType": [
+			],
+			"isSecured": true,
+			"lootFilter": [
+			],
+			"maxCountSpawn": 0,
+			"minCountSpawn": 0,
+			"openedByKeyID": [
+			],
+			"sizeHeight": 2,
+			"sizeWidth": 2,
+			"spawnRarity": "Common",
+			"spawnTypes": "None"
+		},
+		"_type": "Item"
+	},
+	{
+		"_id": "5732ee6a24597719ae0c0281",
+		"_name": "Сумочка",
+		"_parent": "5448bf274bdc2dfc2f8b456a",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "violet",
+			"BlocksArmorVest": false,
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"CantRemoveFromSlotsDuringRaid": [
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 15000,
+			"Description": "",
+			"DiscardingBlock": true,
+			"ExamineExperience": 2,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5732efe224597719bd402b1f",
+					"_name": "main",
+					"_parent": "5732ee6a24597719ae0c0281",
+					"_props": {
+						"cellsH": 2,
+						"cellsV": 2,
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5a341c4086f77401f2541505",
+									"55818aeb4bdc2ddc698b456a",
+									"5b3b6dc75acfc47a8773fb1e",
+									"5a1ead28fcdbcb001912fa9f",
+									"587e08ee245977446b4410cf",
+									"5c0695860db834001b735461",
+									"5a16b93dfcdbcbcae6687261",
+									"5a16b8a9fcdbcb00165aa6ca",
+									"5c11046cd174af02a012e42b",
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"5448eb774bdc2d0a728b4567",
+									"543be5f84bdc2dd4348b456a",
+									"5448fe124bdc2da5018b4567",
+									"619cbf9e0a7c3a1a2731940a",
+									"619cbf7d23893217ec30b689",
+									"59fafd4b86f7745ca07e1232",
+									"5d235bb686f77443f4331278",
+									"5c093e3486f77430cb02e593",
+									"590c60fc86f77412b13fddcf",
+									"5783c43d2459774bbe137486",
+									"543be6674bdc2df1348b4569",
+									"5448ecbe4bdc2d60728b4568",
+									"543be5e94bdc2df1348b4568",
+									"5447e1d04bdc2dff2f8b4567",
+									"567849dd4bdc2d150f8b456e",
+									"543be5664bdc2dd4348b4569",
+									"5447e0e74bdc2d3c308b4567",
+									"5661632d4bdc2d903d8b456b",
+									"543be5cb4bdc2deb348b4568"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "SecBagSlot2",
+					"_name": "main2",
+					"_parent": "5732ee6a24597719ae0c0281",
+					"_props": {
+						"cellsH": 1,
+						"cellsV": 2,
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5a341c4086f77401f2541505",
+									"55818aeb4bdc2ddc698b456a",
+									"5b3b6dc75acfc47a8773fb1e",
+									"5a1ead28fcdbcb001912fa9f",
+									"587e08ee245977446b4410cf",
+									"5c0695860db834001b735461",
+									"5a16b93dfcdbcbcae6687261",
+									"5a16b8a9fcdbcb00165aa6ca",
+									"5c11046cd174af02a012e42b",
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"57864c8c245977548867e7f1",
+									"543be5664bdc2dd4348b4569"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 2,
+			"HideEntrails": true,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "container_pouch",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Дамская сумочка",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_beltbag/item_equipment_backpack_beltbag.bundle",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Superrare",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SearchSound": "looting_body_extended",
+			"SendToClient": false,
+			"ShortName": "Сумка",
+			"Slots": [
+			],
+			"SpawnChance": 0.1,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 0.2,
+			"Width": 2,
+			"containType": [
+			],
+			"isSecured": true,
+			"lootFilter": [
+			],
+			"maxCountSpawn": 0,
+			"minCountSpawn": 0,
+			"openedByKeyID": [
+			],
+			"sizeHeight": 2,
+			"sizeWidth": 2,
+			"spawnRarity": "Common",
+			"spawnTypes": "None"
+		},
+		"_proto": "544a11ac4bdc2d470e8b456a",
+		"_type": "Item"
+	},
+	{
+		"_id": "5857a8b324597729ab0a0e7d",
+		"_name": "Beta container",
+		"_parent": "5448bf274bdc2dfc2f8b456a",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "violet",
+			"BlocksArmorVest": false,
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"CantRemoveFromSlotsDuringRaid": [
+				"SecuredContainer"
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 750000,
+			"Description": "",
+			"DiscardingBlock": true,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5857a8b324597729ab0a0e7e",
+					"_name": "main",
+					"_parent": "5857a8b324597729ab0a0e7d",
+					"_props": {
+						"cellsH": 3,
+						"cellsV": 2,
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5a341c4086f77401f2541505",
+									"55818aeb4bdc2ddc698b456a",
+									"5b3b6dc75acfc47a8773fb1e",
+									"5a1ead28fcdbcb001912fa9f",
+									"587e08ee245977446b4410cf",
+									"5c0695860db834001b735461",
+									"5a16b93dfcdbcbcae6687261",
+									"5a16b8a9fcdbcb00165aa6ca",
+									"5c11046cd174af02a012e42b",
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"5448eb774bdc2d0a728b4567",
+									"543be5f84bdc2dd4348b456a",
+									"5448fe124bdc2da5018b4567",
+									"60b0f6c058e0b0481a09ad11",
+									"619cbf9e0a7c3a1a2731940a",
+									"619cbf7d23893217ec30b689",
+									"59fafd4b86f7745ca07e1232",
+									"5d235bb686f77443f4331278",
+									"5c093e3486f77430cb02e593",
+									"590c60fc86f77412b13fddcf",
+									"5783c43d2459774bbe137486",
+									"543be6674bdc2df1348b4569",
+									"5448ecbe4bdc2d60728b4568",
+									"543be5e94bdc2df1348b4568",
+									"5447e1d04bdc2dff2f8b4567",
+									"567849dd4bdc2d150f8b456e",
+									"543be5664bdc2dd4348b4569",
+									"5447e0e74bdc2d3c308b4567",
+									"5661632d4bdc2d903d8b456b",
+									"543be5cb4bdc2deb348b4568",
+									"543be6564bdc2df4348b4568"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 2,
+			"HideEntrails": true,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "container_case",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Защищенный контейнер Бета",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "assets/content/items/containers/double_gun_case/item_double_gun_case.bundle",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SearchSound": "techno_box_looting_01",
+			"SendToClient": false,
+			"ShortName": "β-secured",
+			"Slots": [
+			],
+			"SpawnChance": 50,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1,
+			"Width": 3,
+			"containType": [
+			],
+			"isSecured": true,
+			"lootFilter": [
+			],
+			"maxCountSpawn": 0,
+			"minCountSpawn": 0,
+			"openedByKeyID": [
+			],
+			"sizeHeight": 2,
+			"sizeWidth": 3,
+			"spawnRarity": "Common",
+			"spawnTypes": "None"
+		},
+		"_proto": "544a11ac4bdc2d470e8b456a",
+		"_type": "Item"
+	},
+	{
+		"_id": "5857a8bc2459772bad15db29",
+		"_name": "Gamma container",
+		"_parent": "5448bf274bdc2dfc2f8b456a",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "violet",
+			"BlocksArmorVest": false,
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"CantRemoveFromSlotsDuringRaid": [
+				"SecuredContainer"
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 1850000,
+			"Description": "",
+			"DiscardingBlock": true,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5857a8bc2459772bad15db2a",
+					"_name": "main",
+					"_parent": "5857a8bc2459772bad15db29",
+					"_props": {
+						"cellsH": 3,
+						"cellsV": 3,
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448e54d4bdc2dcc718b4568",
+									"5a341c4086f77401f2541505",
+									"55818aeb4bdc2ddc698b456a",
+									"5b3b6dc75acfc47a8773fb1e",
+									"5a1ead28fcdbcb001912fa9f",
+									"587e08ee245977446b4410cf",
+									"5c0695860db834001b735461",
+									"5a16b93dfcdbcbcae6687261",
+									"5a16b8a9fcdbcb00165aa6ca",
+									"5c11046cd174af02a012e42b",
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"5448eb774bdc2d0a728b4567",
+									"543be5f84bdc2dd4348b456a",
+									"5448fe124bdc2da5018b4567",
+									"60b0f6c058e0b0481a09ad11",
+									"619cbf9e0a7c3a1a2731940a",
+									"619cbf7d23893217ec30b689",
+									"59fafd4b86f7745ca07e1232",
+									"5d235bb686f77443f4331278",
+									"5c093e3486f77430cb02e593",
+									"590c60fc86f77412b13fddcf",
+									"5783c43d2459774bbe137486",
+									"543be6674bdc2df1348b4569",
+									"5448ecbe4bdc2d60728b4568",
+									"543be5e94bdc2df1348b4568",
+									"5447e1d04bdc2dff2f8b4567",
+									"567849dd4bdc2d150f8b456e",
+									"543be5664bdc2dd4348b4569",
+									"5447e0e74bdc2d3c308b4567",
+									"5661632d4bdc2d903d8b456b",
+									"543be5cb4bdc2deb348b4568",
+									"543be6564bdc2df4348b4568"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 3,
+			"HideEntrails": true,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "container_case",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Защищенный DEVELOPER контейнер",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "assets/content/items/containers/plano_pistol_case/item_plano_pistol_case.bundle",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SearchSound": "techno_box_looting_01",
+			"SendToClient": false,
+			"ShortName": "dev-secured",
+			"Slots": [
+			],
+			"SpawnChance": 50,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1.2,
+			"Width": 3,
+			"containType": [
+			],
+			"isSecured": true,
+			"lootFilter": [
+			],
+			"maxCountSpawn": 0,
+			"minCountSpawn": 0,
+			"openedByKeyID": [
+			],
+			"sizeHeight": 3,
+			"sizeWidth": 3,
+			"spawnRarity": "Common",
+			"spawnTypes": "None"
+		},
+		"_proto": "544a11ac4bdc2d470e8b456a",
+		"_type": "Item"
+	},
+	{
+		"_id": "59db794186f77448bc595262",
+		"_name": "Epsilon container",
+		"_parent": "5448bf274bdc2dfc2f8b456a",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "violet",
+			"BlocksArmorVest": false,
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"CantRemoveFromSlotsDuringRaid": [
+				"SecuredContainer"
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 1100000,
+			"Description": "",
+			"DiscardingBlock": true,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "59db794186f77448bc595263",
+					"_name": "main",
+					"_parent": "59db794186f77448bc595262",
+					"_props": {
+						"cellsH": 4,
+						"cellsV": 2,
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5a341c4086f77401f2541505",
+									"55818aeb4bdc2ddc698b456a",
+									"5b3b6dc75acfc47a8773fb1e",
+									"5a1ead28fcdbcb001912fa9f",
+									"587e08ee245977446b4410cf",
+									"5c0695860db834001b735461",
+									"5a16b93dfcdbcbcae6687261",
+									"5a16b8a9fcdbcb00165aa6ca",
+									"5c11046cd174af02a012e42b",
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"5448eb774bdc2d0a728b4567",
+									"543be5f84bdc2dd4348b456a",
+									"5448fe124bdc2da5018b4567",
+									"60b0f6c058e0b0481a09ad11",
+									"619cbf9e0a7c3a1a2731940a",
+									"619cbf7d23893217ec30b689",
+									"59fafd4b86f7745ca07e1232",
+									"5d235bb686f77443f4331278",
+									"5c093e3486f77430cb02e593",
+									"590c60fc86f77412b13fddcf",
+									"5783c43d2459774bbe137486",
+									"543be6674bdc2df1348b4569",
+									"5448ecbe4bdc2d60728b4568",
+									"543be5e94bdc2df1348b4568",
+									"5447e1d04bdc2dff2f8b4567",
+									"567849dd4bdc2d150f8b456e",
+									"543be5664bdc2dd4348b4569",
+									"5447e0e74bdc2d3c308b4567",
+									"5661632d4bdc2d903d8b456b",
+									"543be5cb4bdc2deb348b4568",
+									"543be6564bdc2df4348b4568"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 2,
+			"HideEntrails": true,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "container_case",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Защищенный контейнер Эпсилон",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "assets/content/prefabs/levelobjects/outdoor/plastic_suitcase_set/plastic_suitcase_54_p.bundle",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SearchSound": "techno_box_looting_01",
+			"SendToClient": false,
+			"ShortName": "E-secured",
+			"Slots": [
+			],
+			"SpawnChance": 50,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1.5,
+			"Width": 4,
+			"containType": [
+			],
+			"isSecured": true,
+			"lootFilter": [
+			],
+			"maxCountSpawn": 0,
+			"minCountSpawn": 0,
+			"openedByKeyID": [
+			],
+			"sizeHeight": 2,
+			"sizeWidth": 4,
+			"spawnRarity": "Common",
+			"spawnTypes": "None"
+		},
+		"_proto": "544a11ac4bdc2d470e8b456a",
+		"_type": "Item"
+	},
+	{
+		"_id": "5c093ca986f7740a1867ab12",
+		"_name": "item_container_secured_kappa",
+		"_parent": "5448bf274bdc2dfc2f8b456a",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "yellow",
+			"BlocksArmorVest": false,
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"CantRemoveFromSlotsDuringRaid": [
+				"SecuredContainer"
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 4900000,
+			"Description": "item_container_secured_kappa",
+			"DiscardingBlock": true,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5c093ca986f7740a1867ab14",
+					"_name": "main",
+					"_parent": "5c093ca986f7740a1867ab12",
+					"_props": {
+						"cellsH": 3,
+						"cellsV": 4,
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5a341c4086f77401f2541505",
+									"55818aeb4bdc2ddc698b456a",
+									"5b3b6dc75acfc47a8773fb1e",
+									"5a1ead28fcdbcb001912fa9f",
+									"587e08ee245977446b4410cf",
+									"5c0695860db834001b735461",
+									"5a16b93dfcdbcbcae6687261",
+									"5a16b8a9fcdbcb00165aa6ca",
+									"5c11046cd174af02a012e42b",
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"5448eb774bdc2d0a728b4567",
+									"5448fe124bdc2da5018b4567",
+									"60b0f6c058e0b0481a09ad11",
+									"619cbf9e0a7c3a1a2731940a",
+									"619cbf7d23893217ec30b689",
+									"59fafd4b86f7745ca07e1232",
+									"5d235bb686f77443f4331278",
+									"5c093e3486f77430cb02e593",
+									"590c60fc86f77412b13fddcf",
+									"5783c43d2459774bbe137486",
+									"543be6674bdc2df1348b4569",
+									"5448ecbe4bdc2d60728b4568",
+									"543be5e94bdc2df1348b4568",
+									"5447e1d04bdc2dff2f8b4567",
+									"567849dd4bdc2d150f8b456e",
+									"543be5664bdc2dd4348b4569",
+									"5447e0e74bdc2d3c308b4567",
+									"5661632d4bdc2d903d8b456b",
+									"543be6564bdc2df4348b4568"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 3,
+			"HideEntrails": true,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "container_plastic",
+			"LootExperience": 30,
+			"MergesWithChildren": false,
+			"Name": "item_container_secured_kappa",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "assets/content/items/containers/item_container_secured_kappa/item_container_secured_kappa.bundle",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SearchSound": "cashregister_looting",
+			"SendToClient": true,
+			"ShortName": "item_container_secured_kappa",
+			"Slots": [
+			],
+			"SpawnChance": 4,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 2,
+			"Width": 3,
+			"containType": [
+			],
+			"isSecured": true,
+			"lootFilter": [
+			],
+			"maxCountSpawn": 0,
+			"minCountSpawn": 0,
+			"openedByKeyID": [
+			],
+			"sizeHeight": 3,
+			"sizeWidth": 4,
+			"spawnRarity": "Common",
+			"spawnTypes": "None"
+		},
+		"_proto": "577e1c9d2459773cd707c525",
+		"_type": "Item"
+	},
+	{
+		"_id": "5c0a794586f77461c458f892",
+		"_name": "Boss container",
+		"_parent": "5448bf274bdc2dfc2f8b456a",
+		"_props": {
+			"AllowSpawnOnLocations": [
+			],
+			"AnimationVariantsNumber": 0,
+			"BackgroundColor": "violet",
+			"BlocksArmorVest": false,
+			"CanPutIntoDuringTheRaid": true,
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"CantRemoveFromSlotsDuringRaid": [
+				"SecuredContainer"
+			],
+			"ChangePriceCoef": 1,
+			"ConflictingItems": [
+			],
+			"CreditsPrice": 1,
+			"Description": "",
+			"DiscardingBlock": true,
+			"ExamineExperience": 10,
+			"ExamineTime": 1,
+			"ExaminedByDefault": true,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"FixedPrice": false,
+			"Grids": [
+				{
+					"_id": "5c0a794586f77461c458f894",
+					"_name": "main",
+					"_parent": "5c0a794586f77461c458f892",
+					"_props": {
+						"cellsH": 4,
+						"cellsV": 90,
+						"filters": [
+							{
+								"ExcludedFilter": [
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Height": 3,
+			"HideEntrails": true,
+			"IsAlwaysAvailableForInsurance": false,
+			"IsLockedafterEquip": false,
+			"IsUnbuyable": false,
+			"IsUndiscardable": false,
+			"IsUngivable": false,
+			"IsUnsaleable": false,
+			"ItemSound": "container_case",
+			"LootExperience": 20,
+			"MergesWithChildren": false,
+			"Name": "Защищенный контейнер Босса",
+			"NotShownInSlot": false,
+			"Prefab": {
+				"path": "assets/content/items/containers/plano_pistol_case/item_plano_pistol_case.bundle",
+				"rcid": ""
+			},
+			"QuestItem": false,
+			"RagFairCommissionModifier": 1,
+			"Rarity": "Not_exist",
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"SearchSound": "techno_box_looting_01",
+			"SendToClient": true,
+			"ShortName": "Boss-secured",
+			"Slots": [
+			],
+			"SpawnChance": 0,
+			"StackMaxSize": 1,
+			"StackObjectsCount": 1,
+			"Unlootable": false,
+			"UnlootableFromSide": [
+			],
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"Weight": 1,
+			"Width": 3,
+			"containType": [
+			],
+			"isSecured": true,
+			"lootFilter": [
+			],
+			"maxCountSpawn": 0,
+			"minCountSpawn": 0,
+			"openedByKeyID": [
+			],
+			"sizeHeight": 3,
+			"sizeWidth": 3,
+			"spawnRarity": "Common",
+			"spawnTypes": "None"
+		},
+		"_proto": "544a11ac4bdc2d470e8b456a",
+		"_type": "Item"
+	}
+]

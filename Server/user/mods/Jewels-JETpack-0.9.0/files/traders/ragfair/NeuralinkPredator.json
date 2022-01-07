@@ -1,0 +1,10 @@
+{
+	"_id": "NeuralinkPredator",
+	"_tpl": "NeuralinkPredator",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

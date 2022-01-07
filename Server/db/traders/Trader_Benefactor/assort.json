@@ -1,0 +1,1135 @@
+{
+	"Trade_Benefactor1BearTag": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 10,
+					"level": 10,
+					"side": "Bear",
+					"_tpl": "59f32c3b86f77472a31742f0"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_Benefactor1BearTag",
+				"_tpl": "5d235b4d86f7742e017bc88a",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_Benefactor2UsecTag": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 10,
+					"level": 10,
+					"side": "Usec",
+					"_tpl": "59f32c3b86f77472a31742f0"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_Benefactor2UsecTag",
+				"_tpl": "5d235b4d86f7742e017bc88a",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorGPU": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "57347ca924597744596b4e71"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorGPU",
+				"_tpl": "59faff1d86f7746c51718c9c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorGPtoBTC": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 10,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorGPtoBTC",
+				"_tpl": "59faff1d86f7746c51718c9c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorMilTube": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "619cbf476b8a1b37a54eebf8"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorMilTube",
+				"_tpl": "59faff1d86f7746c51718c9c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorMilFilter": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d0378d486f77420421a5ff4"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorMilFilter",
+				"_tpl": "59faff1d86f7746c51718c9c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorOph": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 2,
+					"_tpl": "5d0378d486f77420421a5ff4"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorOph",
+				"_tpl": "59faff1d86f7746c51718c9c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorInt": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 2,
+					"_tpl": "5c12613b86f7743bbe2c3f76"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorInt",
+				"_tpl": "59faff1d86f7746c51718c9c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorSkull": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235a5986f77443f6329bc6"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorSkull",
+				"_tpl": "5d235b4d86f7742e017bc88a",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorRFID": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5c052fb986f7746b2101e909"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorRFID",
+				"_tpl": "5d235b4d86f7742e017bc88a",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorRoler": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "59faf7ca86f7740dbe19f6c2"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorRoler",
+				"_tpl": "5d235b4d86f7742e017bc88a",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorIridium": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d0377ce86f774186372f689"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorIridium",
+				"_tpl": "5d235b4d86f7742e017bc88a",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorNixxor": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d1b2ffd86f77425243e8d17"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorNixxor",
+				"_tpl": "5d235b4d86f7742e017bc88a",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorVirtex": {
+		"loyality": 3,
+		"barter_scheme": [
+			[
+				{
+					"count": 2,
+					"_tpl": "5c05308086f7746b2101e90b"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorVirtex",
+				"_tpl": "59faff1d86f7746c51718c9c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorVPX": {
+		"loyality": 3,
+		"barter_scheme": [
+			[
+				{
+					"count": 2,
+					"_tpl": "5c05300686f7746dce784e5d"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorVPX",
+				"_tpl": "59faff1d86f7746c51718c9c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorSuperSlick": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 5,
+					"_tpl": "59faff1d86f7746c51718c9c"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorSuperSlick",
+				"_tpl": "SuperSlick",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorLegWrap": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorLegWrap",
+				"_tpl": "LegWrap",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorAramidWrap": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorAramidWrap",
+				"_tpl": "AramidWrap",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorS191": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 2439,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorS191",
+				"_tpl": "5cc80f53e4a949000e1ea4f8",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorM856A1": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 2122,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorM856A1",
+				"_tpl": "59e6906286f7746c9f75e847",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorM62": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 2455,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorM62",
+				"_tpl": "5a608bf24f39f98ffc77720e",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorBTgs": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 2455,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorBTgs",
+				"_tpl": "56dff061d2720bb5668b4567",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_Benefactor338AP": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 5120,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_Benefactor338AP",
+				"_tpl": "5fc382a9d724d907e2077dab",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorLabCard": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 2,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorLabCard",
+				"_tpl": "5c94bbff86f7747ee735c08f",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": false,
+					"StackObjectsCount": 20
+				}
+			}
+		]
+	},
+	"Trade_BenefactorSuperRig": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 4,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorSuperRig",
+				"_tpl": "SuperRig",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 5
+				}
+			}
+		]
+	},
+	"Trade_BenefactorPartsCase": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "59faff1d86f7746c51718c9c"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorPartsCase",
+				"_tpl": "PartsCase",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999999
+				}
+			}
+		]
+	},
+	"Trade_BenefactorStich1": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorStich1",
+				"_tpl": "60a6220e953894617404b00a",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": false,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorSuperHelmetBare": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 6,
+					"_tpl": "59faff1d86f7746c51718c9c"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorSuperHelmetBare",
+				"_tpl": "SuperHelmet",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": false,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorSuperMask": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 2,
+					"_tpl": "59faff1d86f7746c51718c9c"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorSuperMask",
+				"_tpl": "SuperMask",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": false,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorSuperAmmo": {
+		"loyality": 2,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorSuperAmmo",
+				"_tpl": "Super556Box",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandAlpha": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandAlpha",
+				"_tpl": "619bc61e86e01e16f839a999",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandBear": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandBear",
+				"_tpl": "619bdd8886e01e16f839a99c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandDS": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandDS",
+				"_tpl": "619bddc6c9546643a67df6ee",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandKiba": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandKiba",
+				"_tpl": "619bde3dc9546643a67df6f2",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandLabs": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandLabs",
+				"_tpl": "619bde7fc9546643a67df6f4",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandRFArmy": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandRFArmy",
+				"_tpl": "619bdeb986e01e16f839a99e",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandTG": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandTG",
+				"_tpl": "619bdef8c9546643a67df6f6",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandTH": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandTH",
+				"_tpl": "619bddffc9546643a67df6f0",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandUN": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandUN",
+				"_tpl": "619bdf9cc9546643a67df6f8",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorArmbandUSEC": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5d235b4d86f7742e017bc88a"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorArmbandUSEC",
+				"_tpl": "619bdfd4c9546643a67df6fa",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			}
+		]
+	},
+	"Trade_BenefactorzSpaceTrooper": {
+		"loyality": 1,
+		"barter_scheme": [
+			[
+				{
+					"count": 3,
+					"_tpl": "59faff1d86f7746c51718c9c"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper",
+				"_tpl": "5447a9cd4bdc2dbd208b4567",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"location": null,
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 10
+				}
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper1",
+				"_tpl": "5a33e75ac4a2826c6e06d759",
+				"parentId": "Trade_BenefactorzSpaceTrooper",
+				"slotId": "mod_pistol_grip",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper2",
+				"_tpl": "59c1383d86f774290a37e0ca",
+				"parentId": "Trade_BenefactorzSpaceTrooper",
+				"slotId": "mod_magazine",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper3",
+				"_tpl": "55d355e64bdc2d962f8b4569",
+				"parentId": "Trade_BenefactorzSpaceTrooper",
+				"slotId": "mod_reciever",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper4",
+				"_tpl": "5a1ead28fcdbcb001912fa9f",
+				"parentId": "Trade_BenefactorzSpaceTrooper3",
+				"slotId": "mod_scope",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper5",
+				"_tpl": "5a1eaa87fcdbcb001865f75e",
+				"parentId": "Trade_BenefactorzSpaceTrooper4",
+				"slotId": "mod_scope",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper6",
+				"_tpl": "55d35ee94bdc2d61338b4568",
+				"parentId": "Trade_BenefactorzSpaceTrooper3",
+				"slotId": "mod_barrel",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper7",
+				"_tpl": "5943ee5a86f77413872d25ec",
+				"parentId": "Trade_BenefactorzSpaceTrooper6",
+				"slotId": "mod_muzzle",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper8",
+				"_tpl": "56eabcd4d2720b66698b4574",
+				"parentId": "Trade_BenefactorzSpaceTrooper6",
+				"slotId": "mod_gas_block",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper9",
+				"_tpl": "595cf16b86f77427440c32e2",
+				"parentId": "Trade_BenefactorzSpaceTrooper3",
+				"slotId": "mod_handguard",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper10",
+				"_tpl": "5649a2464bdc2d91118b45a8",
+				"parentId": "Trade_BenefactorzSpaceTrooper9",
+				"slotId": "mod_scope",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper11",
+				"_tpl": "5a33b2c9c4a282000c5a9511",
+				"parentId": "Trade_BenefactorzSpaceTrooper10",
+				"slotId": "mod_scope",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper12",
+				"_tpl": "5a32aa8bc4a2826c6e06d737",
+				"parentId": "Trade_BenefactorzSpaceTrooper11",
+				"slotId": "mod_scope",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper13",
+				"_tpl": "59e0bed186f774156f04ce84",
+				"parentId": "Trade_BenefactorzSpaceTrooper9",
+				"slotId": "mod_mount_000",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper14",
+				"_tpl": "5a7dbfc1159bd40016548fde",
+				"parentId": "Trade_BenefactorzSpaceTrooper13",
+				"slotId": "mod_foregrip",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper15",
+				"_tpl": "59e0be5d86f7742d48765bd2",
+				"parentId": "Trade_BenefactorzSpaceTrooper9",
+				"slotId": "mod_mount_003",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorSpaceTrooper16",
+				"_tpl": "5a7b483fe899ef0016170d15",
+				"parentId": "Trade_BenefactorSpaceTrooper15",
+				"slotId": "mod_tactical",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper17",
+				"_tpl": "5649be884bdc2d79388b4577",
+				"parentId": "Trade_BenefactorzSpaceTrooper",
+				"slotId": "mod_stock",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorzSpaceTrooper18",
+				"_tpl": "56ea7165d2720b6e518b4583",
+				"parentId": "Trade_BenefactorzSpaceTrooper",
+				"slotId": "mod_charge",
+				"location": null
+			}
+		]
+	},
+	"Trade_BenefactorSuperHelmet": {
+		"loyality": 3,
+		"barter_scheme": [
+			[
+				{
+					"count": 10,
+					"_tpl": "59faff1d86f7746c51718c9c"
+				}
+			]
+		],
+		"items": [
+			{
+				"_id": "Trade_BenefactorSuperHelmet",
+				"_tpl": "SuperHelmet",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"location": null,
+				"upd": {
+					"UnlimitedCount": false,
+					"StackObjectsCount": 10
+				}
+			},
+			{
+				"_id": "Trade_BenefactorSuperHelmet1",
+				"_tpl": "5f60c076f2bcbb675b00dac2",
+				"parentId": "Trade_BenefactorSuperHelmet",
+				"slotId": "mod_equipment_000",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorSuperHelmet2",
+				"_tpl": "SuperMask",
+				"parentId": "Trade_BenefactorSuperHelmet",
+				"slotId": "mod_nvg",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorSuperHelmet3",
+				"_tpl": "5ea18c84ecf1982c7712d9a2",
+				"parentId": "Trade_BenefactorSuperHelmet2",
+				"slotId": "mod_nvg",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorSuperHelmet4",
+				"_tpl": "5b800ed086f7747baf6e2f9e",
+				"parentId": "Trade_BenefactorSuperHelmet",
+				"slotId": "mod_mount",
+				"location": null
+			},
+			{
+				"_id": "Trade_BenefactorSuperHelmet5",
+				"_tpl": "5c5952732e2216398b5abda2",
+				"parentId": "Trade_BenefactorSuperHelmet4",
+				"slotId": "mod_tactical",
+				"location": null
+			}
+		]
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"_id": "QuestFlashDrive",
+	"_name": "QuestFlashDrive",
+	"_parent": "5448ecbe4bdc2d60728b4568",
+	"_props": {
+		"AllowSpawnOnLocations": [
+		],
+		"AnimationVariantsNumber": 0,
+		"BackgroundColor": "blue",
+		"CanRequireOnRagfair": true,
+		"CanSellOnRagfair": true,
+		"ChangePriceCoef": 1,
+		"ConflictingItems": [
+		],
+		"CreditsPrice": 29000,
+		"Description": "QuestFlashDrive",
+		"DiscardingBlock": false,
+		"ExamineExperience": 10,
+		"ExamineTime": 1,
+		"ExaminedByDefault": true,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"FixedPrice": false,
+		"Height": 1,
+		"HideEntrails": false,
+		"IsAlwaysAvailableForInsurance": false,
+		"IsLockedafterEquip": false,
+		"IsUnbuyable": false,
+		"IsUndiscardable": false,
+		"IsUngivable": false,
+		"IsUnsaleable": false,
+		"ItemSound": "generic",
+		"LootExperience": 30,
+		"MergesWithChildren": false,
+		"Name": "QuestFlashDrive",
+		"NotShownInSlot": false,
+		"Prefab": {
+			"path": "assets/content/items/infosubject/item_flash_card_slider_sanitar.bundle",
+			"rcid": ""
+		},
+		"QuestItem": true,
+		"RagFairCommissionModifier": 1,
+		"Rarity": "Not_exist",
+		"RepairCost": 0,
+		"RepairSpeed": 0,
+		"SendToClient": false,
+		"ShortName": "QuestMessage",
+		"SpawnChance": 3,
+		"StackMaxSize": 1,
+		"StackObjectsCount": 1,
+		"Unlootable": false,
+		"UnlootableFromSide": [
+		],
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"Weight": 0.1,
+		"Width": 1
+	},
+	"_proto": "56742c324bdc2d150f8b456d",
+	"_type": "Item"
+}

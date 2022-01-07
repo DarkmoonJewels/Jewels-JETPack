@@ -1,0 +1,10 @@
+{
+	"_id": "NeuralinkRhino",
+	"_tpl": "NeuralinkRhino",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "SmallWater",
+	"_tpl": "SmallWater",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

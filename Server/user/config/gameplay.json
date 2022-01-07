@@ -1,0 +1,150 @@
+{
+	"autosave": {
+		"saveOnReceive": true,
+		"saveOnExit": true,
+		"saveIntervalSec": 9999
+	},
+	"inraid": {
+		"saveLootEnabled": true,
+		"saveWeaponDurability": true,
+		"saveHealthEnabled": true,
+		"saveHealthMultiplier": 0.1,
+		"miaOnTimerEnd": true
+	},
+	"other": {
+		"RedeemTime": 48
+	},
+	"defaultRaidSettings": {
+		"aiAmount": "Medium",
+		"aiDifficulty": "Hard",
+		"bossEnabled": true,
+		"scavWars": false,
+		"taggedAndCursed": false
+	},
+	"hideout": {
+		"productionTimeDivide_Areas": 1,
+		"productionTimeDivide_ScavCase": 1,
+		"productionTimeDivide_Production": 1
+	},
+	"bots": {
+		"pmc": {
+			"enabled": true,
+			"spawnChance": 25,
+			"usecChance": 50
+		},
+		"limits": {
+			"assault": 60,
+			"bossBully": 60,
+			"bossGluhar": 60,
+			"bossKilla": 60,
+			"bossKojaniy": 60,
+			"bossSanitar": 60,
+			"bossTagilla": 60,
+			"exUsec": 60,
+			"followerBully": 60,
+			"followerGluharAssault": 60,
+			"followerGluharScout": 60,
+			"followerGluharSecurity": 60,
+			"followerGluharSnipe": 60,
+			"followerKojaniy": 60,
+			"followerSanitar": 60,
+			"followerTagilla": 60,
+			"gifter": 60,
+			"marksman": 60,
+			"pmcBot": 60,
+			"sectantPriest": 60,
+			"sectantWarrior": 60
+		}
+	},
+	"trading": {
+		"ragfairMultiplier": 3.5,
+		"repairMultiplier": 1,
+		"insureMultiplier": 0.1,
+		"insureReturnChance": 100,
+		"fenceAssortSize": 60,
+		"fenceRefreshInterval": 600,
+		"buyItemsMarkedFound": false
+	},
+	"ragfair": {
+		"priceMultiplier": 1,
+		"sellBaseChance": 75,
+		"overpricedDivider": 2,
+		"underPricedDivider": 1,
+		"maxSellTime": 2,
+		"maxRandomTime": 1800,
+		"maxStorageTime": 72,
+		"repGain": 0.05,
+		"repLoss": 0.01,
+		"instantSell": false,
+		"alwaysSell": false,
+		"noCommission": false,
+		"realTimePriceUpdates": true,
+		"dynamic": {
+			"threshold": 8000,
+			"batchSize": 1000,
+			"price": {
+				"min": 0.8,
+				"max": 1.2
+			},
+			"endTime": {
+				"min": 15,
+				"max": 120
+			},
+			"condition": {
+				"min": 0.1,
+				"max": 1
+			},
+			"stack": {
+				"min": 1,
+				"max": 2000
+			},
+			"rating": {
+				"min": 0.1,
+				"max": 0.95
+			},
+			"currencies": {
+				"5449016a4bdc2d6f028b456f": 75,
+				"5696686a4bdc2da3298b456a": 23,
+				"569668774bdc2da2298b4568": 2
+			}
+		}
+	},
+	"location": {
+		"realTimeEnabled": true,
+		"forceWeatherEnabled": false,
+		"forceWeatherId": false
+	},
+	"locationloot": {
+		"containers": {
+			"ChanceForEmpty": 10,
+			"ChanceToSpawnNextItem": 10,
+			"AttemptsToPlaceLoot": 20,
+			"RarityMultipliers": {
+				"Not_exist": 0,
+				"Common": 1,
+				"Rare": 0.7,
+				"Superrare": 0.5
+			}
+		},
+		"allowLootOverlap": false,
+		"bigmap": 7500,
+		"develop": 30,
+		"factory4_day": 800,
+		"factory4_night": 1000,
+		"interchange": 2500,
+		"laboratory": 5000,
+		"rezervbase": 2500,
+		"shoreline": 2100,
+		"woods": 2350,
+		"hideout": false,
+		"lighthouse": 5000,
+		"privatearea": false,
+		"suburbs": false,
+		"tarkovstreets": false,
+		"terminal": false,
+		"town": false
+	},
+	"match": {
+		"enabled": true
+	}
+}

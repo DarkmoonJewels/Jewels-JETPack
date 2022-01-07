@@ -1,0 +1,88 @@
+{
+	"_id": "Super556Box",
+	"_name": "Super556Box",
+	"_parent": "543be5cb4bdc2deb348b4568",
+	"_props": {
+		"AllowSpawnOnLocations": [
+		],
+		"AnimationVariantsNumber": 0,
+		"BackgroundColor": "violet",
+		"CanRequireOnRagfair": false,
+		"CanSellOnRagfair": false,
+		"ChangePriceCoef": 1,
+		"ConflictingItems": [
+		],
+		"CreditsPrice": 51211,
+		"Description": "Super556Box",
+		"DiscardingBlock": false,
+		"ExamineExperience": 10,
+		"ExamineTime": 1,
+		"ExaminedByDefault": false,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"FixedPrice": false,
+		"Height": 1,
+		"HideEntrails": true,
+		"IsAlwaysAvailableForInsurance": false,
+		"IsLockedafterEquip": false,
+		"IsUnbuyable": false,
+		"IsUndiscardable": false,
+		"IsUngivable": false,
+		"IsUnsaleable": false,
+		"ItemSound": "ammo_pack_generic",
+		"LootExperience": 0,
+		"MergesWithChildren": false,
+		"Name": "Super556Box",
+		"NotShownInSlot": false,
+		"Prefab": {
+			"path": "assets/content/items/ammo/boxes/item_ammo_box_556x45_varmageddon_20.bundle",
+			"rcid": ""
+		},
+		"QuestItem": false,
+		"RagFairCommissionModifier": 1,
+		"Rarity": "Superrare",
+		"RepairCost": 0,
+		"RepairSpeed": 0,
+		"SendToClient": false,
+		"ShortName": "Super556Box",
+		"SpawnChance": 0.2,
+		"StackMaxRandom": 30,
+		"StackMaxSize": 1,
+		"StackMinRandom": 30,
+		"StackObjectsCount": 1,
+		"StackSlots": [
+			{
+				"_id": "Super556Box-ammo",
+				"_max_count": 30,
+				"_name": "cartridges",
+				"_parent": "Super556Box",
+				"_props": {
+					"filters": [
+						{
+							"Filter": [
+								"Super556"
+							]
+						}
+					]
+				},
+				"_proto": "5748538b2459770af276a261"
+			}
+		],
+		"Unlootable": false,
+		"UnlootableFromSide": [
+		],
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"Weight": 0.24,
+		"Width": 1,
+		"ammoCaliber": "Caliber556x45NATO"
+	},
+	"_proto": "5447ac644bdc2d6c208b4567",
+	"_type": "Item"
+}

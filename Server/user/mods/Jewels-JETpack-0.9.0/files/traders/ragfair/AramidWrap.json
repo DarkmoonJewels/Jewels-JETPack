@@ -1,0 +1,10 @@
+{
+	"_id": "AramidWrap",
+	"_tpl": "AramidWrap",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
