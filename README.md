@@ -12,6 +12,8 @@ You need to install JET normally first. This mod only includes the server files 
 
 # Differences From Vanilla
 
+**CHECK THE WIKI FOR THE FULL LIST**
+
 **New Level Progression**
 
 One of the biggest differences is that the different maps are unlocked as you level up. No longer can you go into reserve at level 1. This does interrupt the flow of some questlines, but levelling has been overall improved so it doesn't take as long. You unlock each map at the corresponding level:
