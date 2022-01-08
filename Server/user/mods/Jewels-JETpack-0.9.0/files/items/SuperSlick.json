@@ -92,7 +92,8 @@
 						{
 							"Shift": 0,
 							"Filter": [
-								"LegPlates"
+								"LegPlates",
+								"LegWrap"
 							]
 						}
 					]

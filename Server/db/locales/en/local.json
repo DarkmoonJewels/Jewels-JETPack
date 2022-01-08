@@ -9426,7 +9426,8 @@
 			"conditions": {
 				"QuestBenefactor13-Con1": "Find the camp",
 				"QuestBenefactor13-Con2": "Find the flash drive",
-				"QuestBenefactor13-Con3": "Survive and extract"
+				"QuestBenefactor13-Con3": "Turn in item",
+				"QuestBenefactor13-Con4": "Survive and extract"
 			}
 		},
 		"QuestBenefactor14": {
