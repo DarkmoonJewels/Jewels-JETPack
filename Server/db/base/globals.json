@@ -369,7 +369,7 @@
 			]
 		},
 		"SessionsToShowHotKeys": 100,
-		"MaxBotsAliveOnMap": 20,
+		"MaxBotsAliveOnMap": 24,
 		"SavagePlayCooldown": 60,
 		"SavagePlayCooldownNdaFree": 60,
 		"MarksmanAccuracy": 1.3,

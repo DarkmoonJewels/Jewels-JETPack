@@ -15,7 +15,7 @@
 		"RedeemTime": 48
 	},
 	"defaultRaidSettings": {
-		"aiAmount": "Medium",
+		"aiAmount": "High",
 		"aiDifficulty": "Hard",
 		"bossEnabled": true,
 		"scavWars": false,
@@ -127,7 +127,7 @@
 			}
 		},
 		"allowLootOverlap": false,
-		"bigmap": 7500,
+		"bigmap": 1500,
 		"develop": 30,
 		"factory4_day": 800,
 		"factory4_night": 1000,
