@@ -1,0 +1,20 @@
+{
+	"insuranceStart": [
+		"SpectreInsuranceStart1",
+		"SpectreInsuranceStart2"
+	],
+	"insuranceFound": [
+		"SpectreInsuranceFound1",
+		"SpectreInsuranceFound2",
+		"SpectreInsuranceFound3"
+	],
+	"insuranceFailed": [
+		"SpectreInsuranceFail1"
+	],
+	"insuranceExpired": [
+		"SpectreInsuranceExpire1"
+	],
+	"insuranceComplete": [
+		"SpectreInsuranceComplete1"
+	]
+}
